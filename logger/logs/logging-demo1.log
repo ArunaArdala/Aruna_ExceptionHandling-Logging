@@ -1,0 +1,17 @@
+2020-02-26 20:54:37INFO  interestcalculation:11 - Enter Number of operations you want to be perform
+2020-02-26 20:54:45INFO  interestcalculation:16 - Enter the principle amount
+2020-02-26 20:54:48INFO  interestcalculation:18 - Enter the rate of interest
+2020-02-26 20:54:51INFO  interestcalculation:20 - Enter the time
+2020-02-26 20:54:53INFO  interestcalculation:22 - You want to be simple interest or compound interest
+2020-02-26 20:54:53INFO  interestcalculation:23 - 1.Simple Interest 
+2.Compound Interest 
+ 3.Exit
+2020-02-26 20:54:55INFO  interestcalculation:28 - 80000.0
+2020-02-26 20:54:55INFO  interestcalculation:16 - Enter the principle amount
+2020-02-26 20:54:59INFO  interestcalculation:18 - Enter the rate of interest
+2020-02-26 20:55:01INFO  interestcalculation:20 - Enter the time
+2020-02-26 20:55:02INFO  interestcalculation:22 - You want to be simple interest or compound interest
+2020-02-26 20:55:02INFO  interestcalculation:23 - 1.Simple Interest 
+2.Compound Interest 
+ 3.Exit
+2020-02-26 20:55:06INFO  interestcalculation:33 - 9.922946962830004E7
