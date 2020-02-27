@@ -33,15 +33,16 @@ public class interestcalculation extends interests{
 						LOGGER.info(compound);
 						break;
 				default:
-						LOGGER.warn("Please Enter the correct option");
+						LOGGER.info("Please Enter the correct option");
 						return;
 			}
 			operations-=1;
-		}
-		sc.close();
-		
-		
-
+		}+
+			
+			
+			
+			
+			
 	}
 
 }
